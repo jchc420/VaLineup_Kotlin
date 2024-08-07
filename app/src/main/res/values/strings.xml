@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VaLineup</string>
+    <string name="tricode">Tricode:  </string>
+    <string name="country">Country:  </string>
+    <string name="valCoach">Valorant Coach:  </string>
+    <string name="character">Selecciona personaje</string>
+    <string name="noInternet">Sin conexión a internet</string>
+    <string name="checkInternet">Revisa la conexión y reinicia el app</string>
+
+    <string-array name="characters">
+        <item>Sova</item>
+        <item>KAYO</item>
+        <item>Gekko</item>
+        <item>Viper</item>
+        <item>Killjoy</item>
+        <item>Fade</item>
+        <item>Brimstone</item>
+    </string-array>
+
+</resources>
