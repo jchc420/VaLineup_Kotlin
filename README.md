@@ -9,7 +9,7 @@ Aplicación VaLineup, proyecto final del diplomado Desarrollo de Aplicaciones M�
    
 4. Credenciales para poder acceder al app (si se requieren). Si no proporcionas un usuario y contraseña, y no se puede revisar el app, se considerará como no entregada: No se utilizan credenciales para ingresar
  
-5. Dependencias del proyecto (paquetes y/o frameworks utilizados): Se utilizó el framework: En VaLineup se utiliza un API hecha con APIARY con diferentes end points, se utiliza Retrofit para poder manejar las llamadas al API, Glide para manejar la muestra de imágenes y el framework AndroidYoutubePlayer para mostrar el player de Youtube dentro de la aplicación.
+5. Dependencias del proyecto (paquetes y/o frameworks utilizados): En VaLineup se utiliza un API hecha con APIARY con diferentes end points, se utiliza Retrofit para poder manejar las llamadas al API, Glide para manejar la muestra de imágenes y el framework AndroidYoutubePlayer para mostrar el player de Youtube dentro de la aplicación.
 
 EndPoints de APIARY utilizados:
 https://private-2f576-valineupsapi.apiary-mock.com/org/org_list
